@@ -1,7 +1,7 @@
 
 # **Distributional Lesk A Python Implementation**
 Python implementation of the paper: [Distributional Lesk: Effective Knowledge-Based Word Sense Disambiguation](https://aclanthology.org/W17-6931/)
-[![twitter](https://preview--sophia-634ad.stackbit.dev/_static/app-assets/images/WordItOut-word-cloud-5146156.png)]()
+![](WordItOut-word-cloud-5146156.png)
 
 ## **WSD Theory**
 
